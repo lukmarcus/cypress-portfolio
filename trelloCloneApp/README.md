@@ -3,13 +3,11 @@
 - App source: https://github.com/filiphric/how-to-start-with-cypress
 - Repository with my tests: https://github.com/lukmarcus/trelloCloneApp
 
-## Tests
-### 01 Creating First Test
-#### [workshop.cy.js](https://github.com/lukmarcus/trelloCloneApp/blob/main/cypress/e2e/01_creating_first_test/workshop.cy.js)
+## [01 Creating First Test: workshop.cy.js](https://github.com/lukmarcus/trelloCloneApp/blob/main/cypress/e2e/01_creating_first_test/workshop.cy.js)
 
 https://user-images.githubusercontent.com/1151664/232251562-85bd0cd0-4085-4195-ba41-40df1c74e31e.mp4
 
-#### [challenge.cy.js](https://github.com/lukmarcus/trelloCloneApp/blob/main/cypress/e2e/01_creating_first_test/challenge.cy.js)
+## [01 Creating First Test: challenge.cy.js](https://github.com/lukmarcus/trelloCloneApp/blob/main/cypress/e2e/01_creating_first_test/challenge.cy.js)
 
 https://user-images.githubusercontent.com/1151664/232251615-4de23c65-2e88-498a-b2f6-64942ecb6449.mp4
 
