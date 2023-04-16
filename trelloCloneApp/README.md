@@ -45,8 +45,16 @@ https://user-images.githubusercontent.com/1151664/232338458-24ead7ef-fac7-4f2c-b
 
 ## [06 Intercept: workshop.cy.js](https://github.com/lukmarcus/trelloCloneApp/blob/main/cypress/e2e/06_intercept/workshop.cy.js)
 
+https://user-images.githubusercontent.com/1151664/232338672-7fedcc87-d95a-4dfd-8ca9-c4c7eacb0a80.mp4
+
 ## [06 Intercept: challenge.cy.js](https://github.com/lukmarcus/trelloCloneApp/blob/main/cypress/e2e/06_intercept/challenge.cy.js)
+
+https://user-images.githubusercontent.com/1151664/232338642-89c5902b-c4e6-4f87-99d2-d5e869aca72a.mp4
 
 ## [07 Plugins: workshop.cy.js](https://github.com/lukmarcus/trelloCloneApp/blob/main/cypress/e2e/07_plugins/workshop.cy.js)
 
+https://user-images.githubusercontent.com/1151664/232338708-367ba0c3-e59a-4165-8354-7e08f8e41e61.mp4
+
 ## [07 Plugins: challenge.cy.js](https://github.com/lukmarcus/trelloCloneApp/blob/main/cypress/e2e/07_plugins/challenge.cy.js)
+
+https://user-images.githubusercontent.com/1151664/232338692-a6b0a350-044c-4c96-9f74-e578ea601032.mp4
