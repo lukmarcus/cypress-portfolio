@@ -1,5 +1,9 @@
 # My Cypress Portfolio
 
+## [cypressCourseApp](/cypressCourseApp)
+- Real World Testing with Cypress - Testing Your First Application (Cypress Testing Tools)
+- Repository with my tests: https://github.com/lukmarcus/cypressCourseApp
+
 ## [reactApp](/reactApp)
 - End-to-End JavaScript Testing with Cypress.io (LinkedIn Learning)
 - Repository with my tests: https://github.com/lukmarcus/reactApp
