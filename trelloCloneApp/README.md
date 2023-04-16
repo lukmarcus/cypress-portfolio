@@ -21,7 +21,11 @@ https://user-images.githubusercontent.com/1151664/232337130-6fffd0e4-c456-4cd1-a
 
 ## [03 Chaining and Retryability: workshop.cy.js](https://github.com/lukmarcus/trelloCloneApp/blob/main/cypress/e2e/03_chaining_and_retryability/workshop.cy.js)
 
+https://user-images.githubusercontent.com/1151664/232337980-25fb4a6e-efe8-4ff3-8c86-d3af9dbfa58e.mp4
+
 ## [03 Chaining and Retryability: challenge.cy.js](https://github.com/lukmarcus/trelloCloneApp/blob/main/cypress/e2e/03_chaining_and_retryability/challenge.cy.js)
+
+https://user-images.githubusercontent.com/1151664/232337959-52c8303c-5c5f-4258-b051-3154ded1d7eb.mp4
 
 ## [04 Chai Assertions: workshop.cy.js](https://github.com/lukmarcus/trelloCloneApp/blob/main/cypress/e2e/04_chai_assertions/workshop.cy.js)
 
