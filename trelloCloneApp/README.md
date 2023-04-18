@@ -4,21 +4,20 @@
 - App source: https://github.com/filiphric/how-to-start-with-cypress
 - Repository with my tests: https://github.com/lukmarcus/trelloCloneApp
 
-## [01 Creating First Test: workshop.cy.js](https://github.com/lukmarcus/trelloCloneApp/blob/main/cypress/e2e/01_creating_first_test/workshop.cy.js)
+## Login Actions
+- File with tests: [login_actions.cy.js](https://github.com/lukmarcus/trelloCloneApp/blob/main/cypress/e2e/login_actions.cy.js)
+- File with commands: [commands.js](https://github.com/lukmarcus/trelloCloneApp/blob/main/cypress/support/commands.js)
+- Video preview:
 
-https://user-images.githubusercontent.com/1151664/232337097-cda47d0d-3b7a-412e-8923-57c848e3ac53.mp4
+https://user-images.githubusercontent.com/1151664/232789410-1bfd46f2-c260-4001-89df-1a381542f81a.mp4
 
-## [01 Creating First Test: challenge.cy.js](https://github.com/lukmarcus/trelloCloneApp/blob/main/cypress/e2e/01_creating_first_test/challenge.cy.js)
-
-https://user-images.githubusercontent.com/1151664/232337066-5335e6f1-5399-4d98-a631-7c34ef9ae470.mp4
-
-## [02 Simple Assertions: workshop.cy.js](https://github.com/lukmarcus/trelloCloneApp/blob/main/cypress/e2e/02_simple_assertions/workshop.cy.js)
-
-https://user-images.githubusercontent.com/1151664/232337157-9e46dd6a-39d9-4c02-a544-6b658635a14e.mp4
-
-## [02 Simple Assertions: challenge.cy.js](https://github.com/lukmarcus/trelloCloneApp/blob/main/cypress/e2e/02_simple_assertions/challenge.cy.js)
-
-https://user-images.githubusercontent.com/1151664/232337130-6fffd0e4-c456-4cd1-a3a2-7a4da2eee93b.mp4
+## Course files with tests
+- 01 Creating First Test:
+    - [workshop.cy.js](https://github.com/lukmarcus/trelloCloneApp/blob/main/cypress/e2e/01_creating_first_test/workshop.cy.js)
+    - [challenge.cy.js](https://github.com/lukmarcus/trelloCloneApp/blob/main/cypress/e2e/01_creating_first_test/challenge.cy.js)
+- 02 Simple Assertions:
+    - [workshop.cy.js](https://github.com/lukmarcus/trelloCloneApp/blob/main/cypress/e2e/02_simple_assertions/workshop.cy.js)
+    - [challenge.cy.js](https://github.com/lukmarcus/trelloCloneApp/blob/main/cypress/e2e/02_simple_assertions/challenge.cy.js)
 
 ## [03 Chaining and Retryability: workshop.cy.js](https://github.com/lukmarcus/trelloCloneApp/blob/main/cypress/e2e/03_chaining_and_retryability/workshop.cy.js)
 
