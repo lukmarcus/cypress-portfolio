@@ -1,6 +1,6 @@
 # My Cypress Portfolio
 
-## Test I've written:
+## Tests I've written:
 
 ## [cypressCourseApp](/cypressCourseApp)
 - Real World Testing with Cypress - Testing Your First Application (Cypress Testing Tools)

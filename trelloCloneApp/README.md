@@ -1,4 +1,5 @@
-# Workshop: Head-to-Head Web Testing: Part 1 with Cypress (Test Automation University Conference 2023)
+# Workshop: Head-to-Head Web Testing: Part 1 with Cypress
+- Website: [Test Automation University Conference 2023](https://applitools.com/on-demand-videos/test-automation-university-conference-march-2023/)
 - Course link: https://applitools.com/event/workshop-head-to-head-web-testing-part-1-with-cypress/
 - App source: https://github.com/filiphric/how-to-start-with-cypress
 - Repository with my tests: https://github.com/lukmarcus/trelloCloneApp

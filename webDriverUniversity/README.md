@@ -1,6 +1,7 @@
-# The Complete Cypress v12 Course: From Zero to Expert (Udemy)
+# The Complete Cypress v12 Course: From Zero to Expert
+- Website: [Udemy](https://www.udemy.com/)
 - Course link: https://www.udemy.com/course/cypress-io-master-class
-- Website: https://webdriveruniversity.com
+- Test-website: https://webdriveruniversity.com
 - Repository with my tests: https://github.com/lukmarcus/webDriverUniversity
 
 ## [Contact Us Form: contactUs.js](https://github.com/lukmarcus/webDriverUniversity/blob/main/cypress/e2e/contactUs.js)

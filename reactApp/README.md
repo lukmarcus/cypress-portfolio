@@ -1,4 +1,5 @@
-# Workshop: Head-to-Head Web Testing: Part 1 with Cypress (Test Automation University Conference 2023)
+# End-to-End JavaScript Testing with Cypress.io
+- Website: [LinkedIn Learning](https://www.linkedin.com/learning/)
 - Course link: https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io/
 - Repository with my tests: https://github.com/lukmarcus/reactApp
 
